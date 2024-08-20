@@ -1,0 +1,30 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"path": "#terminal: panel0",
+			"panel": 0,
+			"action": "open"
+		},
+		{
+			"path": "file2.html",
+			"panel": 2,
+			"action": "open"
+		},
+		{
+			"path": "#preview: file3.html",
+			"panel": 3,
+			"action": "open"
+		}
+	],
+	"id": "825d8f02-8a28-76ad-aa75-71c6bcb9c580",
+	"layout": "4-cell",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "4 panels without tree don't close tabs",
+	"type": "page",
+	"closeTerminalSession": true
+}

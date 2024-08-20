@@ -1,0 +1,31 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "#terminal: panel1",
+			"panel": 1,
+			"action": "open"
+		},
+		{
+			"path": "file0.html",
+			"panel": 0,
+			"action": "open"
+		}
+	],
+	"id": "902ae235-767f-7178-f38f-5a435e8d4247",
+	"layout": "3-cell-tree",
+	"learningObjectives": "",
+	"path": [
+		"3-panel-folder"
+	],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "3 panels with tree",
+	"type": "page",
+	"closeTerminalSession": true
+}

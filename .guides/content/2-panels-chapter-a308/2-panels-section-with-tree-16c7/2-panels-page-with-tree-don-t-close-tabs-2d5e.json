@@ -1,0 +1,19 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"path": "#terminal: panel0",
+			"panel": 0,
+			"action": "open"
+		}
+	],
+	"id": "2d5eccbd-7e75-f5e7-75c2-f4f846b54f01",
+	"layout": "2-panels-tree",
+	"learningObjectives": "",
+	"path": [],
+	"teacherOnly": false,
+	"title": "2 panels page with tree don't close tabs",
+	"type": "page",
+	"closeTerminalSession": true
+}

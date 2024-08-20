@@ -1,0 +1,22 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"1-panel-chapter-0c0b",
+		"2-panels-chapter-a308",
+		"3-panels-chapter-96f8",
+		"3-columns-chapter-0976",
+		"4-panels-chapter-f35d"
+	],
+	"scripts": [],
+	"title": "guides layouts and open tabs",
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true,
+	"protectLayout": false
+}

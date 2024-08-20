@@ -1,0 +1,20 @@
+{
+	"id": "c6f76318-f72d-ff07-e38b-3e240b631556",
+	"title": "1 panel page with tree",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel-tree",
+	"path": [
+		"1-panel-folder",
+		"1-panel"
+	],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}
