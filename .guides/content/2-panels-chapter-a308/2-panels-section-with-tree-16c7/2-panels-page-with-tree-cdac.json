@@ -7,7 +7,7 @@
 			"action": "close"
 		},
 		{
-			"path": "file0.html",
+			"path": "2-panel-folder/file.html",
 			"panel": 0,
 			"action": "open"
 		}

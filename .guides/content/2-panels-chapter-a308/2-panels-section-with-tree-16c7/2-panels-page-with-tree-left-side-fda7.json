@@ -7,7 +7,7 @@
 			"action": "close"
 		},
 		{
-			"path": "file1.html",
+			"path": "2-panel/folder/file.py",
 			"panel": 1,
 			"action": "open"
 		}
@@ -17,7 +17,7 @@
 	"learningObjectives": "",
 	"path": [
 		"2-panel-folder",
-		"2-panel"
+		"2-panel/folder"
 	],
 	"teacherOnly": false,
 	"title": "2 panels page with tree left side",

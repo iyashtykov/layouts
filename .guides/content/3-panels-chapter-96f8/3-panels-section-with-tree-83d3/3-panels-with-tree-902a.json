@@ -12,7 +12,7 @@
 			"action": "open"
 		},
 		{
-			"path": "file0.html",
+			"path": "3-panel-folder/folder/file.py",
 			"panel": 0,
 			"action": "open"
 		}
@@ -21,7 +21,7 @@
 	"layout": "3-cell-tree",
 	"learningObjectives": "",
 	"path": [
-		"3-panel-folder"
+		"3-panel-folder/folder"
 	],
 	"reset": [],
 	"teacherOnly": false,

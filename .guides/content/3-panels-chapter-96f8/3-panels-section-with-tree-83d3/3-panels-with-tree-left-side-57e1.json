@@ -12,8 +12,8 @@
 			"action": "open"
 		},
 		{
-			"path": "file2.html",
-			"panel": 2,
+			"path": "3-panel/file.html",
+			"panel": 1,
 			"action": "open"
 		}
 	],
@@ -22,7 +22,7 @@
 	"learningObjectives": "",
 	"path": [
 		"3-panel-folder",
-		"3-panel"
+		"3-panel/folder"
 	],
 	"reset": [],
 	"teacherOnly": false,

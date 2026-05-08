@@ -10,7 +10,7 @@
 	"layout": "1-panel-tree",
 	"path": [
 		"1-panel-folder",
-		"1-panel"
+		"1-panel/folder"
 	],
 	"type": "page",
 	"contentType": "markdown",
